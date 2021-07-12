@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tired_react/static/css/main.7a2685f5.chunk.css",
+    "main.js": "/tired_react/static/js/main.537ef2ce.chunk.js",
+    "main.js.map": "/tired_react/static/js/main.537ef2ce.chunk.js.map",
+    "runtime-main.js": "/tired_react/static/js/runtime-main.25b6adfe.js",
+    "runtime-main.js.map": "/tired_react/static/js/runtime-main.25b6adfe.js.map",
+    "static/js/2.12752261.chunk.js": "/tired_react/static/js/2.12752261.chunk.js",
+    "static/js/2.12752261.chunk.js.map": "/tired_react/static/js/2.12752261.chunk.js.map",
+    "static/js/3.821c8d50.chunk.js": "/tired_react/static/js/3.821c8d50.chunk.js",
+    "static/js/3.821c8d50.chunk.js.map": "/tired_react/static/js/3.821c8d50.chunk.js.map",
+    "index.html": "/tired_react/index.html",
+    "static/css/main.7a2685f5.chunk.css.map": "/tired_react/static/css/main.7a2685f5.chunk.css.map",
+    "static/js/2.12752261.chunk.js.LICENSE.txt": "/tired_react/static/js/2.12752261.chunk.js.LICENSE.txt",
+    "static/media/video_1.85d7bb38.mp4": "/tired_react/static/media/video_1.85d7bb38.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25b6adfe.js",
+    "static/js/2.12752261.chunk.js",
+    "static/css/main.7a2685f5.chunk.css",
+    "static/js/main.537ef2ce.chunk.js"
+  ]
+}
